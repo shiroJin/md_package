@@ -2,7 +2,8 @@
 title: LRU算法
 ---
 
-使用mac的时候，cmd+tab切换应用非常舒服。其中的算法就是LRU算法。LRU全称Least Recently Used，即最近最少使用算法。
+使用mac的时候，cmd+tab切换应用非常舒服。其中的算法就是LRU算法。LRU全称Least Recently Used，即最近最少使用算法。下面用js实现以下最简单的LRU算法。
+<!--more-->
 
 把我们的应用标记为A，B，C，D
 
